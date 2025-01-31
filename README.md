@@ -43,7 +43,7 @@ Look at the capstone project for more detials.
 
 ## Author
 
-[Rishab Kumar](https://github.com/rishabkumar7)
+[David Akpele](https://github.com/davidakpele)
 
 ## License
 
